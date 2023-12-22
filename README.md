@@ -8,4 +8,4 @@ The purpose of this assignment was to take an existing website and refactor its 
 
 ### Screenshot and Link to Live Webpage
 
-[Live Site]([https://nihsad.github.io/challenge-01/](https://nihsad.github.io/horiseon-refactor/)https://nihsad.github.io/horiseon-refactor/)
+[Live Site](https://nihsad.github.io/horiseon-refactor/){:target="_blank"}
