@@ -10,4 +10,4 @@ The purpose of this assignment was to take an existing website and refactor its 
 
 [Live Site](https://nihsad.github.io/horiseon-refactor/)
 
-![Gif screenshot showing the application](./assets/images/readme-screenshot.gif)
+![Gif screenshot showing the application](/assets/images/readme-screenshot.gif)
